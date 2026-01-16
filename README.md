@@ -29,10 +29,13 @@ Me interesa el análisis de datos, Business Intelligence y bases de datos. Disfr
 
 ---
 
-## 📊 Estadísticas
+## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanbaekxi21xd)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanbaekxi21xd&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Chanbaekxi21xd&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chanbaekxi21xd&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chanbaekxi21xd&layout=compact&theme=tokyonight)
 
 
 
