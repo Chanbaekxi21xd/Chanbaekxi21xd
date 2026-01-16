@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Lison Vinu
 
-<!--
-**Chanbaekxi21xd/Chanbaekxi21xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Sistemas de Información | 📊 Data & BI Enthusiast | 💻 Aprendiendo a crear soluciones con datos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Me interesa el análisis de datos, Business Intelligence y bases de datos. Disfruto transformar información en conocimiento útil para la toma de decisiones.
+
+---
+
+## 🛠️ Tecnologías
+- Python (Pandas)  
+- SQL  
+- Power BI  
+- Excel  
+- Java  
+
+---
+
+## 🎯 Objetivos
+- Fortalecer mis habilidades en Data Analytics  
+- Construir un portafolio profesional  
+- Participar en proyectos colaborativos  
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanbaekxi21xd &show_icons=true&theme=tokyonight)
+
