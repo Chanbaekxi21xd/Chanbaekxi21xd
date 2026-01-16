@@ -44,17 +44,18 @@ Estudiante de la **Universidad de Guayaquil** cursando la carrera de Ingeniería
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Mi actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=Chanbaekxi21xd&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=Chanbaekxi21xd&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chanbaekxi21xd&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chanbaekxi21xd&theme=tokyonight" />
 </p>
 
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chanbaekxi21xd&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
