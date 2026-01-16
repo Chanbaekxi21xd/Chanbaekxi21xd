@@ -27,5 +27,6 @@ Me interesa el análisis de datos, Business Intelligence y bases de datos. Disfr
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanbaekxi21xd &show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanbaekxi21xd&show_icons=true&theme=tokyonight)
+
 
