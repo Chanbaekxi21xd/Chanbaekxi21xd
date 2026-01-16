@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Sobre mí
-Me interesa el análisis de datos, Business Intelligence y bases de datos. Disfruto transformar información en conocimiento útil para la toma de decisiones.
+Estudiante de la Universidad de Guayaquil cursando la carrera de Ingenieria en Sistemas con un gran interés en el análisis de datos, Business Intelligence y bases de datos. Disfruto transformar información en conocimiento útil para la toma de decisiones.
 
 ---
 
