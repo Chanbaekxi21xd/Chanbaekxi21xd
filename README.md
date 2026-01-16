@@ -1,5 +1,10 @@
 # 👋 Hola, soy Allison Vinueza Gutierrez
 
+
+<p align="center">
+  <img src="https://github.com/Chanbaekxi21xd/Chanbaekxi21xd/blob/main/Banner.png" alt="Banner" width="800"/>
+</p>
+
 🎓 Estudiante de Sistemas de Información | 📊 Data & BI Enthusiast | 💻 Aprendiendo a crear soluciones con datos.
 
 ---
@@ -27,6 +32,7 @@ Me interesa el análisis de datos, Business Intelligence y bases de datos. Disfr
 ## 📊 Estadísticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanbaekxi21xd)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanbaekxi21xd&show_icons=true&theme=tokyonight)
 
 
 
