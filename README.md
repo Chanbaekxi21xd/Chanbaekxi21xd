@@ -27,6 +27,13 @@ Me interesa el análisis de datos, Business Intelligence y bases de datos. Disfr
 
 ## 📊 Estadísticas
 
+## 📊 Estadísticas de GitHub
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanbaekxi21xd&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanbaekxi21xd&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Chanbaekxi21xde&theme=tokyonight)
+
 
 
