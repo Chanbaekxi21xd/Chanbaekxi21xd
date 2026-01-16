@@ -4,13 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://tu-link-de-imagen.png" alt="Banner" width="800"/>
-</p>
-
-
----
-
 ## 🚀 Sobre mí
 Me interesa el análisis de datos, Business Intelligence y bases de datos. Disfruto transformar información en conocimiento útil para la toma de decisiones.
 
